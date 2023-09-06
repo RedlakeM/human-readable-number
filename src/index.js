@@ -29,6 +29,6 @@ module.exports = function toReadable (number) {
     }
 }
 
-console.log(toRadable(987));
+console.log(readable(987));
 
 }
